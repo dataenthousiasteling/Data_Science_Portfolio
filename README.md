@@ -1,2 +1,2 @@
 # Data_Science_Portfolio
-This is my data science portfolio
+This is my website where I publish my data science and analysis projects.
